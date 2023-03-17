@@ -1,0 +1,31 @@
+# BreakTime
+I made this project during our C# modules. And since then this application is used in various places including our TSP. C# ADO .NET and SQL Server are used in this Project. If you have a training center, office or anywhere, if you want to set break time here and want to save Daily records in database, then this Application is for you. You can use this application completely free…..
+<img src="https://github.com/mmrradif/BreakTime/blob/85f472ccf962a0423dd9eba5284f90ff758cdb53/Images/home.png"/>
+<hr />
+<img src="https://github.com/mmrradif/BreakTime/blob/85f472ccf962a0423dd9eba5284f90ff758cdb53/Images/batch.png"/>
+<hr />
+<img src="https://github.com/mmrradif/BreakTime/blob/85f472ccf962a0423dd9eba5284f90ff758cdb53/Images/type.png"/>
+<hr />
+<img src="https://github.com/mmrradif/BreakTime/blob/85f472ccf962a0423dd9eba5284f90ff758cdb53/Images/time.png"/>
+<hr />
+<img src="https://github.com/mmrradif/BreakTime/blob/85f472ccf962a0423dd9eba5284f90ff758cdb53/Images/confirm.png"/>
+<hr />
+<img src="https://github.com/mmrradif/BreakTime/blob/85f472ccf962a0423dd9eba5284f90ff758cdb53/Images/timegoing.png"/>
+<hr />
+<img src="https://github.com/mmrradif/BreakTime/blob/85f472ccf962a0423dd9eba5284f90ff758cdb53/Images/timepause.png"/>
+<hr />
+<img src="https://github.com/mmrradif/BreakTime/blob/85f472ccf962a0423dd9eba5284f90ff758cdb53/Images/bluetheme.png"/>
+<hr />
+<img src="https://github.com/mmrradif/BreakTime/blob/85f472ccf962a0423dd9eba5284f90ff758cdb53/Images/lighttheme.png"/>
+<hr />
+<img src="https://github.com/mmrradif/BreakTime/blob/85f472ccf962a0423dd9eba5284f90ff758cdb53/Images/tealtheme.png"/>
+<hr />
+<img src="https://github.com/mmrradif/BreakTime/blob/85f472ccf962a0423dd9eba5284f90ff758cdb53/Images/colorchange.png"/>
+<hr />
+<img src="https://github.com/mmrradif/BreakTime/blob/85f472ccf962a0423dd9eba5284f90ff758cdb53/Images/additionaltime.png"/>
+<hr />
+<img src="https://github.com/mmrradif/BreakTime/blob/85f472ccf962a0423dd9eba5284f90ff758cdb53/Images/saveornot.png"/>
+<hr />
+<img src="https://github.com/mmrradif/BreakTime/blob/85f472ccf962a0423dd9eba5284f90ff758cdb53/Images/dailyrecord.png"/>
+<hr />
+
